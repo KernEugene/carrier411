@@ -22,30 +22,45 @@ def refactoring(field):
 
 def search():
     startTime = datetime.now()
-    workbook = load_workbook(filename="data3.xlsx")
-    sheet = workbook.active
-    amount = sheet.max_row
-    list_mails = ['@gmail.com', '@yahoo.com', '@yahoo.com.mx', '@hotmail.com', '@icloud.com', '@outlook.com',
-                  '@live.com', '@aol.com', '@usa.com', '@ymail.com']
+    counter = 1
+    for i in range(50):
+        workbook = load_workbook(filename=f"data/data{counter}.xlsx")
+        counter += 1
+        sheet = workbook.active
+        amount = sheet.max_row
+        list_mails = ['@gmail.com', '@yahoo.com', '@yahoo.com.mx', '@hotmail.com', '@icloud.com', '@outlook.com',
+                      '@live.com', '@aol.com', '@usa.com', '@ymail.com']
 
 
-    for i in range(1, amount):
-         email = (sheet.cell(row=i, column=12).value)
-         legalname = (sheet.cell(row=i, column=3).value)
-         contact_name = (sheet.cell(row=i, column=13).value)
-         print(email)
+        for i in range(1, amount):
+             email = (sheet.cell(row=i, column=12).value)
+             legalname = (sheet.cell(row=i, column=3).value)
+             contact_name = (sheet.cell(row=i, column=13).value)
+             print(email)
 
-         for domain in list_mails:
              if email == None:
                  pass
-             elif domain in email:
-                 data = {'LegalName': refactoring(legalname),
-                         'Email': email,
-                         'ContactName': refactoring(contact_name)}
-                 write_csv(data)
              else:
-                 pass
-             continue
+                 data = {'LegalName': refactoring(legalname),
+                          'Email': email,
+                          'ContactName': refactoring(contact_name)}
+
+                 write_csv(data)
+
+
+
+
+             # for domain in list_mails:
+             #     if email == None:
+             #         pass
+             #     elif domain in email:
+             #         data = {'LegalName': refactoring(legalname),
+             #                 'Email': email,
+             #                 'ContactName': refactoring(contact_name)}
+             #         write_csv(data)
+             #     else:
+             #         pass
+             #     continue
     print(datetime.now() - startTime)
 
 
