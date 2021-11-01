@@ -1,0 +1,17362 @@
+
+
+<table>
+<tr>
+	
+	<td>DOCKET</td>
+	<td>USDOT</td>
+	<td>LEGALNAME</td>
+	<td>DBANAME</td>
+	<td>ADDRESS</td>
+	<td>CITY</td>
+	<td>STATE</td>
+	<td>ZIP</td>
+	<td>PHONE</td>
+	<td>CELL</td>
+	<td>FAX</td>
+	<td>EMAIL</td>
+	<td>CONTACT1</td>
+	<td>CONTACT2</td>
+	<td>TRUCKS</td>
+	<td>INSPECTIONS</td>
+	<td>DRVINSP</td>
+	<td>DRVINSPOOS</td>
+	<td>DRVOOSPCT</td>
+	<td>VEHINSP</td>
+	<td>VEHINSPOOS</td>
+	<td>VEHOOSPCT</td>
+	<td>HAZMAT</td>
+	<td>COMMON</td>
+	<td>CONTRACT</td>
+	<td>BROKER</td>
+	<td>PENDCOMMON</td>
+	<td>PENDCONTRACT</td>
+	<td>PENDBROKER</td>
+	<td>REVCOMMON</td>
+	<td>REVCONTRACT</td>
+	<td>REVBROKER</td>
+	<td>BIPDREQ</td>
+	<td>BIPDFILED</td>
+	<td>CARGOREQ</td>
+	<td>CARGOFILED</td>
+	<td>BONDREQ</td>
+	<td>BONDFILED</td>
+	<td>INSAUTHUPDATED</td>
+	
+	<td>RATING</td>
+	<td>RATEDATE</td>
+	<td>UNSAFEDRIVPCT</td>
+	<td>UNSAFEDRIVRDALERT</td>
+	<td>UNSAFEDRIVSV</td>
+	<td>UNSAFEDRIVBASICALERT</td>
+	<td>HOSCOMPPCT</td>
+	<td>HOSCOMPRDALERT</td>
+	<td>HOSCOMPSV</td>
+	<td>HOSCOMPBASICALERT</td>
+	<td>DRIVFITPCT</td>
+	<td>DRIVFITRDALERT</td>
+	<td>DRIVFITSV</td>
+	<td>DRIVFITBASICALERT</td>
+	<td>CONTRSUBSTPCT</td>
+	<td>CONTRSUBSTRDALERT</td>
+	<td>CONTRSUBSTSV</td>
+	<td>CONTRSUBSTBASICALERT</td>
+	<td>VEHMAINTPCT</td>
+	<td>VEHMAINTRDALERT</td>
+	<td>VEHMAINTSV</td>
+	<td>VEHMAINTBASICALERT</td>
+	<td>UNSAFEDRIVMEAS</td>
+	<td>UNSAFEDRIVMEASINDAVG</td>
+	<td>HOSCOMPMEAS</td>
+	<td>HOSCOMPMEASINDAVG</td>
+	<td>DRIVFITMEAS</td>
+	<td>DRIVFITMEASINDAVG</td>
+	<td>CONTRSUBSTMEAS</td>
+	<td>CONTRSUBSTMEASINDAVG</td>
+	<td>VEHMAINTMEAS</td>
+	<td>VEHMAINTMEASINDAVG</td>
+	
+	<td>EXPORTED</td>
+</tr>
+
+<tr>
+	
+	<td>MC046296</td>
+	
+	<td>3044187</td>
+	
+	<td>D & J VIP LLC</td>
+	<td>TRIPLE SEVEN 777 TRANSPORT</td>
+	<td>3555 S HIGHLAND DR</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89102</td>
+	
+	<td>7023503158</td>
+	
+	<td>7023503158</td>
+	
+	<td></td>
+	
+	<td>jasonxie318@gmail.com</td>
+	
+	<td>GANGXU XIE</td>
+	
+	<td></td>
+	
+	<td>      1</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>5000000</td>
+	<td>5000000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/19/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td>0</td>
+	
+	<td>1.39</td>
+	
+		<td>0</td>
+	
+	<td>0.47</td>
+	
+		<td>0</td>
+	
+	<td>0.16</td>
+	
+		<td>0</td>
+	
+	<td>0.019</td>
+	
+		<td>0</td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1010883</td>
+	
+	<td>3226752</td>
+	
+	<td>TEMESGEN AGADE</td>
+	<td>BLUE LINE TRUCKING</td>
+	<td>8916 MARMO AVENUE</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89148</td>
+	
+	<td>7027424228</td>
+	
+	<td>7027765425</td>
+	
+	<td></td>
+	
+	<td>bluelinetrucking27@gmail.com</td>
+	
+	<td>TEMESGEN W AGADE</td>
+	
+	<td></td>
+	
+	<td>      1</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>1000000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/19/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td>0</td>
+	
+	<td>1.39</td>
+	
+		<td>0</td>
+	
+	<td>0.47</td>
+	
+		<td>0</td>
+	
+	<td>0.16</td>
+	
+		<td>0</td>
+	
+	<td>0.019</td>
+	
+		<td>0</td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1021875</td>
+	
+	<td>3248623</td>
+	
+	<td>JP TRUCKING INC</td>
+	<td></td>
+	<td>2381 PALORA AVE</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89169</td>
+	
+	<td>7022651326</td>
+	
+	<td>7027620432</td>
+	
+	<td></td>
+	
+	<td>jptruckinc@gmail.com</td>
+	
+	<td>LISANDRA SOTOLONGO</td>
+	
+	<td>GEORDAN DANIEL PEREZ DEL RIO</td>
+	
+	<td>      1</td>
+	
+	<td>      3</td>
+	
+	<td>      3</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>      2</td>
+	
+	<td>      1</td>
+	
+	<td>50.0</td>
+	
+	<td>N</td>
+	
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>750000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/20/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>42.2</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td>0</td>
+	
+	<td>1.39</td>
+	
+		<td>0</td>
+	
+	<td>0.47</td>
+	
+		<td>0</td>
+	
+	<td>0.16</td>
+	
+		<td>0</td>
+	
+	<td>0.019</td>
+	
+		<td>4.5</td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1119890</td>
+	
+	<td>3444992</td>
+	
+	<td>AL CARGO LLC</td>
+	<td>AL CARGO LLC</td>
+	<td>3874 FALCON SPRINGS DR</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89147</td>
+	
+	<td>7023724817</td>
+	
+	<td>7023724817</td>
+	
+	<td></td>
+	
+	<td>alcargovan@gmail.com</td>
+	
+	<td>VESELIN ZIVAK</td>
+	
+	<td></td>
+	
+	<td>      1</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>300000</td>
+	<td>300000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/21/2021</td>
+	
+	<td></td>
+	
+	<td>02/22/2021</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td>0</td>
+	
+	<td>1.39</td>
+	
+		<td>0</td>
+	
+	<td>0.47</td>
+	
+		<td>0</td>
+	
+	<td>0.16</td>
+	
+		<td>0</td>
+	
+	<td>0.019</td>
+	
+		<td>0</td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1130515</td>
+	
+	<td>3462212</td>
+	
+	<td>MICHAEL MCCARTHY & SHAQUANA WILKS</td>
+	<td>LOYAL SERVICE TRANSPORT</td>
+	<td>200 SOUTH VIRGINIA 8TH FLOOR</td>
+	<td>RENO</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89501</td>
+	
+	<td>7753005933</td>
+	
+	<td></td>
+	
+	<td>7753005933</td>
+	
+	<td>loyalservicetransport@gmail.com</td>
+	
+	<td>MICHAEL MCCARTHY SR.</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/25/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1130730</td>
+	
+	<td>3462571</td>
+	
+	<td>FERRELL EXPRESS LOGISTICS LLC</td>
+	<td></td>
+	<td>10037 DISTANT RAIN CT</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89183</td>
+	
+	<td>8669213398</td>
+	
+	<td>7022726412</td>
+	
+	<td>8669213398</td>
+	
+	<td>eferrell@silverlanexotics.com</td>
+	
+	<td>ERIK MAURICE FERRELL</td>
+	
+	<td></td>
+	
+	<td>      1</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>Y</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>I</td>
+	<td>Y</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>1000000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	
+	<td>10/25/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td>0</td>
+	
+	<td>1.39</td>
+	
+		<td>0</td>
+	
+	<td>0.47</td>
+	
+		<td>0</td>
+	
+	<td>0.16</td>
+	
+		<td>0</td>
+	
+	<td>0.019</td>
+	
+		<td>0</td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1156613</td>
+	
+	<td>3502539</td>
+	
+	<td>SANTANDER TRUCKING CORP</td>
+	<td></td>
+	<td>8965 S EASTERN AVE STE 120</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89123</td>
+	
+	<td>8888380138</td>
+	
+	<td>7028810652</td>
+	
+	<td></td>
+	
+	<td>jesus@santandertrucking.com</td>
+	
+	<td>JESUS SANTANDER</td>
+	
+	<td></td>
+	
+	<td>      1</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>750000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/18/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td>0</td>
+	
+	<td>1.39</td>
+	
+		<td>0</td>
+	
+	<td>0.47</td>
+	
+		<td>0</td>
+	
+	<td>0.16</td>
+	
+		<td>0</td>
+	
+	<td>0.019</td>
+	
+		<td>0</td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1200098</td>
+	
+	<td>3566917</td>
+	
+	<td>REBELWINGS HOTSHOT SERVICES LLC</td>
+	<td></td>
+	<td>229 PRAIRIE SKY CT</td>
+	<td>HENDERSON</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89074</td>
+	
+	<td>7024990101</td>
+	
+	<td>7024990101</td>
+	
+	<td></td>
+	
+	<td>rebelwings702@outlook.com</td>
+	
+	<td>ROLAND EDWIN BURNS II</td>
+	
+	<td></td>
+	
+	<td>      1</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>I</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/25/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td>0</td>
+	
+	<td>1.39</td>
+	
+		<td>0</td>
+	
+	<td>0.47</td>
+	
+		<td>0</td>
+	
+	<td>0.16</td>
+	
+		<td>0</td>
+	
+	<td>0.019</td>
+	
+		<td>0</td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1267469</td>
+	
+	<td>3663424</td>
+	
+	<td>DISCOVERY TOURS LLC</td>
+	<td></td>
+	<td>6371 PAWLOW AVE</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89118</td>
+	
+	<td>7025692010</td>
+	
+	<td>7025692010</td>
+	
+	<td></td>
+	
+	<td>info@discoverytourslv.com</td>
+	
+	<td>IULIAN ZAHARESCU</td>
+	
+	<td>DANIEL GHITA</td>
+	
+	<td>      1</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>1500000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/19/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td>0</td>
+	
+	<td>1.39</td>
+	
+		<td>0</td>
+	
+	<td>0.47</td>
+	
+		<td>0</td>
+	
+	<td>0.16</td>
+	
+		<td>0</td>
+	
+	<td>0.019</td>
+	
+		<td>0</td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1269329</td>
+	
+	<td>3665992</td>
+	
+	<td>FILIS TRANSPORTATION LLC</td>
+	<td></td>
+	<td>11194 FORMOSA SPRINGS CT</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89183</td>
+	
+	<td>9075452122</td>
+	
+	<td>9075453121</td>
+	
+	<td></td>
+	
+	<td>filisaliu1982@gamil.com</td>
+	
+	<td>MEFAIL SALIU</td>
+	
+	<td></td>
+	
+	<td>      1</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>1000000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/21/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td>0</td>
+	
+	<td>1.39</td>
+	
+		<td>0</td>
+	
+	<td>0.47</td>
+	
+		<td>0</td>
+	
+	<td>0.16</td>
+	
+		<td>0</td>
+	
+	<td>0.019</td>
+	
+		<td>0</td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1270336</td>
+	
+	<td>3667383</td>
+	
+	<td>MY RIDE, LLC</td>
+	<td>MY RIDE CHARTERS</td>
+	<td>716 W PLEASANT OAK TRAIL</td>
+	<td>RENO</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89511</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>charters@myridecharters.com</td>
+	
+	<td>GEOFFREY DONAHUE</td>
+	
+	<td>JACOB DONAHUE</td>
+	
+	<td>      3</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>5000000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/22/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td>0</td>
+	
+	<td>1.39</td>
+	
+		<td>0</td>
+	
+	<td>0.47</td>
+	
+		<td>0</td>
+	
+	<td>0.16</td>
+	
+		<td>0</td>
+	
+	<td>0.019</td>
+	
+		<td>0</td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1279084</td>
+	
+	<td>3679403</td>
+	
+	<td>ZACHARY BURKES</td>
+	<td>LAS VEGAS RAIDERS HUDDLE SHUTTLE</td>
+	<td>764 E TWAIN AVE APT 22H</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89169</td>
+	
+	<td>7252612787</td>
+	
+	<td>7252612787</td>
+	
+	<td>7029319408</td>
+	
+	<td>highfashion_01@yahoo.com</td>
+	
+	<td>ZACHARY CLATON BURKES SR.</td>
+	
+	<td></td>
+	
+	<td>      1</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>A</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>5000000</td>
+	<td>5000000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/25/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td>0</td>
+	
+	<td>1.39</td>
+	
+		<td>0</td>
+	
+	<td>0.47</td>
+	
+		<td>0</td>
+	
+	<td>0.16</td>
+	
+		<td>0</td>
+	
+	<td>0.019</td>
+	
+		<td>0</td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1282211</td>
+	
+	<td>3683547</td>
+	
+	<td>AK EXPRESS TRUCKING</td>
+	<td></td>
+	<td>848 N RAINBOW BLVD PMB 4196</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89107</td>
+	
+	<td>6264191234</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>avokirejian@yahoo.com</td>
+	
+	<td>AVO STEVE KIREJIAN</td>
+	
+	<td></td>
+	
+	<td>      1</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/25/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td>0</td>
+	
+	<td>1.39</td>
+	
+		<td>0</td>
+	
+	<td>0.47</td>
+	
+		<td>0</td>
+	
+	<td>0.16</td>
+	
+		<td>0</td>
+	
+	<td>0.019</td>
+	
+		<td>0</td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1289213</td>
+	
+	<td>3693150</td>
+	
+	<td>PALMICHE TRANSPORT LLC</td>
+	<td></td>
+	<td>5162 WOODRUFF PL</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89120</td>
+	
+	<td>7025616864</td>
+	
+	<td>7025616864</td>
+	
+	<td></td>
+	
+	<td>pachequito1981@yahoo.com</td>
+	
+	<td>LINO DELGADO PACHECO</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>750000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/22/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1290675</td>
+	
+	<td>3695140</td>
+	
+	<td>JASON D HAGEDORN</td>
+	<td></td>
+	<td>3000 HIGH VIEW DRIVE APT 1922</td>
+	<td>HENDERSON</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89014</td>
+	
+	<td>7028495523</td>
+	
+	<td>7028495523</td>
+	
+	<td></td>
+	
+	<td>hagedornjason@gmail.com</td>
+	
+	<td>JASON DETIQUIZ HAGEDORN</td>
+	
+	<td></td>
+	
+	<td>      2</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/25/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td>0</td>
+	
+	<td>1.39</td>
+	
+		<td>0</td>
+	
+	<td>0.47</td>
+	
+		<td>0</td>
+	
+	<td>0.16</td>
+	
+		<td>0</td>
+	
+	<td>0.019</td>
+	
+		<td>0</td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1291599</td>
+	
+	<td>3696370</td>
+	
+	<td>RTRUCKINGNCARRIES LLC</td>
+	<td>RNS TRUCKING</td>
+	<td>1180 BUTLER ST</td>
+	<td>RENO</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89512</td>
+	
+	<td>7753039857</td>
+	
+	<td>7753039857</td>
+	
+	<td>7753039857</td>
+	
+	<td>mariorabago@rnstruckin.com</td>
+	
+	<td>MARIO SERGIO RABAGO JR.</td>
+	
+	<td></td>
+	
+	<td>      1</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>750000</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/25/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td>0</td>
+	
+	<td>1.39</td>
+	
+		<td>0</td>
+	
+	<td>0.47</td>
+	
+		<td>0</td>
+	
+	<td>0.16</td>
+	
+		<td>0</td>
+	
+	<td>0.019</td>
+	
+		<td>0</td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1301703</td>
+	
+	<td>3710025</td>
+	
+	<td>TOURS 702 LAS VEGAS EN ESPANOL LLC</td>
+	<td></td>
+	<td>5841 COMMODORE COVE DR</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89142</td>
+	
+	<td>7025874802</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>benjaminvasquez922@gmail.com</td>
+	
+	<td>BENJAMIN JAFET SIERRA VASQUEZ</td>
+	
+	<td>IVAN RAMON TENENBAUM-COSTA</td>
+	
+	<td>      2</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>1500000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/25/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td>0</td>
+	
+	<td>1.39</td>
+	
+		<td>0</td>
+	
+	<td>0.47</td>
+	
+		<td>0</td>
+	
+	<td>0.16</td>
+	
+		<td>0</td>
+	
+	<td>0.019</td>
+	
+		<td>0</td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1310047</td>
+	
+	<td>3721457</td>
+	
+	<td>ARK ANGELS EXPRESS LLC</td>
+	<td></td>
+	<td>3680 W ROBINDALE RD</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89139</td>
+	
+	<td>7027484291</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/20/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td>0</td>
+	
+	<td>1.39</td>
+	
+		<td>0</td>
+	
+	<td>0.47</td>
+	
+		<td>0</td>
+	
+	<td>0.16</td>
+	
+		<td>0</td>
+	
+	<td>0.019</td>
+	
+		<td>0</td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1311744</td>
+	
+	<td>3723744</td>
+	
+	<td>SG CARRIER SERVICES LLC</td>
+	<td>SG CARRIER SERVICES LLC</td>
+	<td>844 N RAINBOW BLVD # 195</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89107</td>
+	
+	<td>7023066734</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>750000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/21/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td>0</td>
+	
+	<td>1.39</td>
+	
+		<td>0</td>
+	
+	<td>0.47</td>
+	
+		<td>0</td>
+	
+	<td>0.16</td>
+	
+		<td>0</td>
+	
+	<td>0.019</td>
+	
+		<td>0</td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1314027</td>
+	
+	<td>3726850</td>
+	
+	<td>Z-HAUL'N LLC</td>
+	<td></td>
+	<td>7775 TAMRA DR</td>
+	<td>RENO</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89506</td>
+	
+	<td>7757620419</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/22/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td>0</td>
+	
+	<td>1.39</td>
+	
+		<td>0</td>
+	
+	<td>0.47</td>
+	
+		<td>0</td>
+	
+	<td>0.16</td>
+	
+		<td>0</td>
+	
+	<td>0.019</td>
+	
+		<td>0</td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1315190</td>
+	
+	<td>3691374</td>
+	
+	<td>TURNER & COMPANY LLC</td>
+	<td></td>
+	<td>9105 W FLAMINGO RD APT 1065</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89147-6434</td>
+	
+	<td>9207578053</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>support@turnercosign.com</td>
+	
+	<td>JUWAN TURNER</td>
+	
+	<td></td>
+	
+	<td>      1</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>A</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>Y</td>
+	
+	<td>10/25/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td>0</td>
+	
+	<td>1.39</td>
+	
+		<td>0</td>
+	
+	<td>0.47</td>
+	
+		<td>0</td>
+	
+	<td>0.16</td>
+	
+		<td>0</td>
+	
+	<td>0.019</td>
+	
+		<td>0</td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1315546</td>
+	
+	<td>3728934</td>
+	
+	<td>SPIRIT LOGISTICS LLC</td>
+	<td></td>
+	<td>6978 FOGGY MIST AVE</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89179</td>
+	
+	<td>7025802617</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>300000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/19/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td>0</td>
+	
+	<td>1.39</td>
+	
+		<td>0</td>
+	
+	<td>0.47</td>
+	
+		<td>0</td>
+	
+	<td>0.16</td>
+	
+		<td>0</td>
+	
+	<td>0.019</td>
+	
+		<td>0</td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1316697</td>
+	
+	<td>3730519</td>
+	
+	<td>RJAC SERVICES LLC</td>
+	<td></td>
+	<td>5917 CANCUN AVE</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89131</td>
+	
+	<td>7024932209</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>1000000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/25/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1317373</td>
+	
+	<td>3731462</td>
+	
+	<td>SALVADOR CAMACHO JR</td>
+	<td>IKE TRANSPORTATION</td>
+	<td>4756 DENNIS WAY</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89121</td>
+	
+	<td>3232377769</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>1000000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/19/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1318735</td>
+	
+	<td>3733347</td>
+	
+	<td>EXCLUSIVE TRANSPORT LLC</td>
+	<td></td>
+	<td>3753 HOWARD HUGHES PKWY STE 200</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89169</td>
+	
+	<td>7754409087</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/18/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1318791</td>
+	
+	<td>3719229</td>
+	
+	<td>INTERNATIONAL WOOD PALLETS LLC</td>
+	<td></td>
+	<td>2615 E CHARLESTON BLVD APT D</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89104-6680</td>
+	
+	<td>7026839948</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/19/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td>0</td>
+	
+	<td>1.39</td>
+	
+		<td>0</td>
+	
+	<td>0.47</td>
+	
+		<td>0</td>
+	
+	<td>0.16</td>
+	
+		<td>0</td>
+	
+	<td>0.019</td>
+	
+		<td>0</td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1319092</td>
+	
+	<td>3733860</td>
+	
+	<td>BLACK EXCELLENCE TRANSPORT LLC</td>
+	<td></td>
+	<td>8565 S EASTERN AVE STE 150</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89123</td>
+	
+	<td>7027510069</td>
+	
+	<td></td>
+	
+	<td>7027510013</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/18/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1319331</td>
+	
+	<td>3734169</td>
+	
+	<td>SANDOVAL LOGISTICS INC</td>
+	<td></td>
+	<td>2300 W SAHARA AVE STE 800</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89102</td>
+	
+	<td>7027170204</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>300000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/18/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1319369</td>
+	
+	<td>3734242</td>
+	
+	<td>H AND R LLC</td>
+	<td></td>
+	<td>4220 GANNET CIR UNIT 299</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89103</td>
+	
+	<td>7255001181</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/18/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1319473</td>
+	
+	<td>3734380</td>
+	
+	<td>SESS TRANSPORT LLC</td>
+	<td></td>
+	<td>1920 HODGENVILLE ST UNIT 106</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89106</td>
+	
+	<td>3155722402</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/18/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1319487</td>
+	
+	<td>3734405</td>
+	
+	<td>BLAQ BIRD LLC</td>
+	<td></td>
+	<td>500 N RAINBOW BLVD STE 300A</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89107</td>
+	
+	<td>8172585044</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/18/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1319551</td>
+	
+	<td>2149671</td>
+	
+	<td>VALENCIAS TOWING LLC</td>
+	<td></td>
+	<td>5470 SLOPE DRIVE</td>
+	<td>SUN VALLEY</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89433</td>
+	
+	<td>7752257398</td>
+	
+	<td>7752257398</td>
+	
+	<td></td>
+	
+	<td>melecio.valencia@yahoo.com</td>
+	
+	<td>MELESIO VALENCIA</td>
+	
+	<td></td>
+	
+	<td>      2</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>Y</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/18/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td>0</td>
+	
+	<td>1.39</td>
+	
+		<td>0</td>
+	
+	<td>0.47</td>
+	
+		<td>0</td>
+	
+	<td>0.16</td>
+	
+		<td>0</td>
+	
+	<td>0.019</td>
+	
+		<td>0</td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1320080</td>
+	
+	<td>3735169</td>
+	
+	<td>BM TRANSPORTATION LLC</td>
+	<td></td>
+	<td>5447 GREEN HORN ST</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89118</td>
+	
+	<td>7022926557</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/19/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1320104</td>
+	
+	<td>3735198</td>
+	
+	<td>CHARLES & ANDREA TRANSPORT LLC</td>
+	<td></td>
+	<td>700 E PECKHAM LN APT 258</td>
+	<td>RENO</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89502</td>
+	
+	<td>2098989185</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>1000000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/19/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1320122</td>
+	
+	<td>3735229</td>
+	
+	<td>VEGAS DONE WRIGHT TRANSPORTATION LLC</td>
+	<td></td>
+	<td>7652 MONOMOY BAY AVE</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89179</td>
+	
+	<td>7025392448</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/19/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1320346</td>
+	
+	<td>3735514</td>
+	
+	<td>DROPZONE LOGISTICS</td>
+	<td></td>
+	<td>1483 SILVER GLEN AVE</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89123</td>
+	
+	<td>7027132439</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/19/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1320357</td>
+	
+	<td>3735525</td>
+	
+	<td>ACE TRANSPORT LLC</td>
+	<td></td>
+	<td>356 CADENCE VISTA DR</td>
+	<td>HENDERSON</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89011</td>
+	
+	<td>7027565862</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>300000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/19/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1320774</td>
+	
+	<td>3736150</td>
+	
+	<td>GPJ FREIGHT INC</td>
+	<td></td>
+	<td>4622 ROCKPINE DR</td>
+	<td>N LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89081</td>
+	
+	<td>7029942322</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/19/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1320847</td>
+	
+	<td>3492135</td>
+	
+	<td>VJP DELIVERY SERVICES LLC</td>
+	<td></td>
+	<td>3800 PARQUE VERDE LN</td>
+	<td>RENO</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89502-5336</td>
+	
+	<td>7752193522</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/19/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1321211</td>
+	
+	<td>3736733</td>
+	
+	<td>GRAYSON EXPRESS LLC</td>
+	<td></td>
+	<td>1152 TUMBLING RIVER AVE</td>
+	<td>HENDERSON</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89052</td>
+	
+	<td>7752941048</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/19/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1321225</td>
+	
+	<td>3736753</td>
+	
+	<td>JDMA TRANSPORTATION LLC</td>
+	<td></td>
+	<td>5668 CALM SEASON ST</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89118</td>
+	
+	<td>7027874713</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/19/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1321227</td>
+	
+	<td>3736758</td>
+	
+	<td>Y&D DRIVERS TRANSPORT LLC</td>
+	<td></td>
+	<td>266 LYRA LN</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89110</td>
+	
+	<td>7864163210</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/19/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1321337</td>
+	
+	<td>3736920</td>
+	
+	<td>OLD SCHOOL MOVERS LLC</td>
+	<td></td>
+	<td>7737 ROCKFIELD DR</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89128</td>
+	
+	<td>7027011520</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/19/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1321344</td>
+	
+	<td>3736934</td>
+	
+	<td>DKX TRANSPORTATION LLC</td>
+	<td></td>
+	<td>3750 ARVILLE ST APT 396</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89103</td>
+	
+	<td>6128895795</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/19/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1321573</td>
+	
+	<td>3737269</td>
+	
+	<td>WILLIAMSWAY LLC</td>
+	<td></td>
+	<td>3409 BENSON LN</td>
+	<td>N LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89032</td>
+	
+	<td>7022872410</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>750000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/22/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1321739</td>
+	
+	<td>3737485</td>
+	
+	<td>SOURCE ENERGY CONSULTANT SERVICES LLC</td>
+	<td>SOURCE ENERGY TRANSPORTATION</td>
+	<td>304 S JONES BLVD # 4223</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89107</td>
+	
+	<td>7024996401</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/19/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1322095</td>
+	
+	<td>3737997</td>
+	
+	<td>DESAINT LITTLE MERMAID TRUCKING LLC</td>
+	<td></td>
+	<td>2647 KAREN CT APT 525</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89109</td>
+	
+	<td>7254006012</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/25/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1322243</td>
+	
+	<td>3738201</td>
+	
+	<td>TRIVENTO TRANSPORT LLC</td>
+	<td></td>
+	<td>1316 NAY CT</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89104</td>
+	
+	<td>7029720788</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>1000000</td>
+	<td>1000000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/25/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1322295</td>
+	
+	<td>3738272</td>
+	
+	<td>BAD BOY TRUCKING LLC</td>
+	<td></td>
+	<td>7243 ALSOP COURT</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89156</td>
+	
+	<td>7022377832</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/25/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1322321</td>
+	
+	<td>3738316</td>
+	
+	<td>TRUSTWORTHY TRUCKING 1</td>
+	<td></td>
+	<td>8635 W SAHARA AVE PMB 734</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89117</td>
+	
+	<td>2088344444</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/25/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1322407</td>
+	
+	<td>3738449</td>
+	
+	<td>MARSCH ENTERPRISES LLC</td>
+	<td></td>
+	<td>4680 W RUSSELL RD STE B</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89118</td>
+	
+	<td>7029134191</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/25/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1322479</td>
+	
+	<td>3738549</td>
+	
+	<td>USAAUSSIE LLC</td>
+	<td>ROLLING MILES LOGISTICS</td>
+	<td>836 CHINOOK BREEZE CT</td>
+	<td>HENDERSON</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89052</td>
+	
+	<td>7026729902</td>
+	
+	<td></td>
+	
+	<td>7029901685</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	
+	<td>10/25/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1322499</td>
+	
+	<td>3738575</td>
+	
+	<td>C & C IMPORT</td>
+	<td>C & C TRUCKS</td>
+	<td>7509 COUNCIL AVE</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89128</td>
+	
+	<td>7025428245</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>750000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/25/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1322518</td>
+	
+	<td>3738604</td>
+	
+	<td>TRINIDAD GROUND TRANSFER LLC</td>
+	<td></td>
+	<td>1496 DIVINITY ST</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89142</td>
+	
+	<td>7204779806</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/25/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1322612</td>
+	
+	<td>3738742</td>
+	
+	<td>GEMINI DISTRIBUTION</td>
+	<td></td>
+	<td>2917 CRYSTAL BAY DR</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89117</td>
+	
+	<td>7147677208</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/25/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1322748</td>
+	
+	<td>3732864</td>
+	
+	<td>CERBERUS ENTERPRISE INC</td>
+	<td></td>
+	<td>935 LYON AVE SPC 2</td>
+	<td>ELKO</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89801-4902</td>
+	
+	<td>7753889383</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/19/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1323156</td>
+	
+	<td>3739456</td>
+	
+	<td>WALTER GONZALEZ</td>
+	<td>WALLEY TRANSPORTING</td>
+	<td>3515 FLOWER AVE</td>
+	<td>N LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89030</td>
+	
+	<td>7024948505</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>1000000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/22/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1323325</td>
+	
+	<td>3739684</td>
+	
+	<td>JEFE XL TRANSPORT LLC</td>
+	<td></td>
+	<td>400 S 4TH ST STE 500</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89101</td>
+	
+	<td>8005114089</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/19/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1323471</td>
+	
+	<td>3739889</td>
+	
+	<td>LEA TRANSPORT LLC</td>
+	<td></td>
+	<td>1817 BLUE MOUNTAIN DR</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89108</td>
+	
+	<td>7023255724</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>750000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/25/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1323974</td>
+	
+	<td>3740571</td>
+	
+	<td>FC & MOORE TRANSPORTATION LLC</td>
+	<td></td>
+	<td>6585 HIGH ST STE 110</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89113</td>
+	
+	<td>8886010184</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>750000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/22/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1324357</td>
+	
+	<td>3741084</td>
+	
+	<td>GALAXY CARRIERS LLC</td>
+	<td></td>
+	<td>3225 MCLEOD DR STE 100</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89121</td>
+	
+	<td>8774886266</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>750000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/18/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1324536</td>
+	
+	<td>3741342</td>
+	
+	<td>JOE N IDA TRUCKING LLC</td>
+	<td></td>
+	<td>7986 TRADITIONAL CT</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89113</td>
+	
+	<td>7023343939</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/20/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1324633</td>
+	
+	<td>3741487</td>
+	
+	<td>TEAM SASX LLC</td>
+	<td></td>
+	<td>25 PEAK VILLA AVE</td>
+	<td>N LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89031</td>
+	
+	<td>9015861683</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>750000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/25/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1324793</td>
+	
+	<td>3741726</td>
+	
+	<td>WEST EAGLE LLC</td>
+	<td></td>
+	<td>8 ALAMERE FALLS DR</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89138</td>
+	
+	<td>7025639781</td>
+	
+	<td></td>
+	
+	<td>7025639781</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/18/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1324929</td>
+	
+	<td>3741910</td>
+	
+	<td>JR BIG BROS LLC</td>
+	<td></td>
+	<td>4040 BOULDER HWY APT 1078</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89121</td>
+	
+	<td>7025102535</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/21/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1325071</td>
+	
+	<td>3742110</td>
+	
+	<td>SILVER STATE CARRIER LLC</td>
+	<td></td>
+	<td>5955 BELVEDERE CANYON AVE</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89139</td>
+	
+	<td>8172585044</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/18/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1325084</td>
+	
+	<td>3742130</td>
+	
+	<td>PRIMO TRANSPORT LLC</td>
+	<td></td>
+	<td>4083 EILEEN ST</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89115</td>
+	
+	<td>2073325111</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>750000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/18/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1325224</td>
+	
+	<td>3742318</td>
+	
+	<td>MOPIA LLC</td>
+	<td>UNICORN LOGISTIC SERVICES</td>
+	<td>3225 MCLEOD DR STE 100</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89121</td>
+	
+	<td>8007064741</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/22/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1325331</td>
+	
+	<td>3742473</td>
+	
+	<td>RELIABLE FAST TRANSPORTATION LLC</td>
+	<td></td>
+	<td>345 W CRAIG RD STE 127</td>
+	<td>N LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89032</td>
+	
+	<td>7022875081</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>1000000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/18/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1325433</td>
+	
+	<td>3742608</td>
+	
+	<td>PRIME TRANSPORT USA LLC</td>
+	<td></td>
+	<td>5018 S RAINBOW BLVD UNIT 204</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89118</td>
+	
+	<td>7025823182</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/18/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1325519</td>
+	
+	<td>3742719</td>
+	
+	<td>EBMSS BUILDING SERVICES LLC</td>
+	<td></td>
+	<td>614 HIDDEN VALLEY DR</td>
+	<td>HENDERSON</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89002</td>
+	
+	<td>4703000124</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/19/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1325520</td>
+	
+	<td>3742720</td>
+	
+	<td>CELSA B ALIBANGBANG</td>
+	<td>STOVER FREIGHT LINE</td>
+	<td>6275 JUDSON AVE 2240 BLEDSOE LN</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89156</td>
+	
+	<td>7025838955</td>
+	
+	<td></td>
+	
+	<td>7028233424</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/20/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1325727</td>
+	
+	<td>3743014</td>
+	
+	<td>ANN ROAD FARMS LLC</td>
+	<td></td>
+	<td>555 E EL CAMPO GRANDE AVE</td>
+	<td>N LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89081</td>
+	
+	<td>7023559972</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>300000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/21/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1325812</td>
+	
+	<td>3743119</td>
+	
+	<td>ANNIE & TRAMP TRANSPORT LLC</td>
+	<td></td>
+	<td>5293 BENTGRASS DR</td>
+	<td>STAGECOACH</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89429</td>
+	
+	<td>4703000124</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/19/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1325827</td>
+	
+	<td>3743146</td>
+	
+	<td>MERLI CONCRETE PUMPING OF NV INC</td>
+	<td></td>
+	<td>2545 MARCO ST</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89115</td>
+	
+	<td>7026437071</td>
+	
+	<td></td>
+	
+	<td>7026437072</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/19/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1325842</td>
+	
+	<td>3743165</td>
+	
+	<td>FLEA MUSIC</td>
+	<td>FLEA TRANSPORTATION</td>
+	<td>7849 TERRITORIAL ST</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89149</td>
+	
+	<td>7024933216</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>300000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/22/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1325875</td>
+	
+	<td>3743208</td>
+	
+	<td>ELFA TRUCKING LLC</td>
+	<td>ELFA TRUCKING</td>
+	<td>10081 THUNDER RAPIDS CT</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89148</td>
+	
+	<td>7023278339</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/19/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1325951</td>
+	
+	<td>3743309</td>
+	
+	<td>REBOOTED ME LLC</td>
+	<td></td>
+	<td>1188 COURT ST # 112</td>
+	<td>ELKO</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89801</td>
+	
+	<td>7753976334</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>300000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/19/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1325997</td>
+	
+	<td>3743378</td>
+	
+	<td>FOGEL TRUCKS LLC</td>
+	<td></td>
+	<td>1489 W WARM SPRINGS RD STE 110</td>
+	<td>HENDERSON</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89014</td>
+	
+	<td>7023719750</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/19/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1326451</td>
+	
+	<td>3744016</td>
+	
+	<td>RIVERA'S TRUCKING LLC</td>
+	<td></td>
+	<td>5341 TUSTIN HILLS ST</td>
+	<td>N LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89081</td>
+	
+	<td>7022877720</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/20/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1326636</td>
+	
+	<td>3744291</td>
+	
+	<td>TP XPRESS SOLUTIONS LLC</td>
+	<td></td>
+	<td>8275 S EASTERN AVE STE 200</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89123</td>
+	
+	<td>8773097737</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/20/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1326830</td>
+	
+	<td>3701548</td>
+	
+	<td>ELEV8 FREIGHT SOLUTIONS LLC</td>
+	<td></td>
+	<td>599 CARLETON DRIVE</td>
+	<td>HENDERSON</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89014</td>
+	
+	<td>7252771806</td>
+	
+	<td>7252771806</td>
+	
+	<td></td>
+	
+	<td>info@elev8fs.com</td>
+	
+	<td>RACHEL LAHELA KAOHI-ALEMAN</td>
+	
+	<td>JULIO NMN ALEMAN-CASTILLO</td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/22/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1326841</td>
+	
+	<td>3744562</td>
+	
+	<td>C&C USA TRANSIT LLC</td>
+	<td></td>
+	<td>3323 SUTTERS FORT ST</td>
+	<td>N LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89032</td>
+	
+	<td>7023350112</td>
+	
+	<td></td>
+	
+	<td>7020000000</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/21/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1327073</td>
+	
+	<td>3744888</td>
+	
+	<td>JENNINGS TRUCKING LLC</td>
+	<td>TRUCKING</td>
+	<td>1805 VILLA DE CONDE WAY</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89102</td>
+	
+	<td>2094799547</td>
+	
+	<td></td>
+	
+	<td>2094799547</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/21/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1327326</td>
+	
+	<td>3745241</td>
+	
+	<td>JOHN HARDIN</td>
+	<td></td>
+	<td>8840 EL CAMINO RD</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89139</td>
+	
+	<td>7022109229</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/21/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1327799</td>
+	
+	<td>3745866</td>
+	
+	<td>NASEER TRANSPORTATION LLC</td>
+	<td></td>
+	<td>2140 MOUNTAIN CITY ST</td>
+	<td>HENDERSON</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89052</td>
+	
+	<td>7029361465</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/22/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1327882</td>
+	
+	<td>3745982</td>
+	
+	<td>CANDOTTIE LLC</td>
+	<td>PRIORITY VIP TRANSPORTATION</td>
+	<td>3111 S VALLEY VIEW BLVD STE A215</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89102</td>
+	
+	<td>7027140039</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>1500000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/22/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1327906</td>
+	
+	<td>3746015</td>
+	
+	<td>MASTER TRANSPORT LOGISTIC LLC</td>
+	<td></td>
+	<td>8374 MOUNTAIN VILLAGE ST</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89113</td>
+	
+	<td>7028269672</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>300000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/22/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1327956</td>
+	
+	<td>3746098</td>
+	
+	<td>ANGEL SPIRIT TRANSPORTATION LLC</td>
+	<td></td>
+	<td>2462 CAPISTRANO AVE</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89121</td>
+	
+	<td>7022353559</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/22/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1328020</td>
+	
+	<td>3746175</td>
+	
+	<td>RASTEGARI LLC</td>
+	<td></td>
+	<td>6132 CRYSTAL CASCADE ST</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89130</td>
+	
+	<td>5043399881</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/22/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1328038</td>
+	
+	<td>3746199</td>
+	
+	<td>SHELTON & SONS TRUCKING LLC</td>
+	<td></td>
+	<td>7996 IMPERIAL TREASURE ST 7996 IMPERIAL TREASURE S</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89139</td>
+	
+	<td>7023715803</td>
+	
+	<td></td>
+	
+	<td>8886342454</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/22/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1328091</td>
+	
+	<td>3746277</td>
+	
+	<td>JJ & A TRANSPORT LLC</td>
+	<td></td>
+	<td>688 PEACH CORAL ST</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89183</td>
+	
+	<td>7029086445</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/22/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1328135</td>
+	
+	<td>3746350</td>
+	
+	<td>PENGUIN FREIGHT INC</td>
+	<td></td>
+	<td>7170 GARDEN POND ST</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89148</td>
+	
+	<td>7029369111</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/22/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1328225</td>
+	
+	<td>3746473</td>
+	
+	<td>RC LINES TRUCKING LLC</td>
+	<td>RC LINES TRUCKING LLC</td>
+	<td>4515 AMBERLEY RIDGE AVE</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89115</td>
+	
+	<td>3237427491</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/22/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1328227</td>
+	
+	<td>3746476</td>
+	
+	<td>CARGO KINGS EXPRESS INC</td>
+	<td></td>
+	<td>3115 N LAS VEGAS BLVD</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89115</td>
+	
+	<td>3234466909</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/22/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1328287</td>
+	
+	<td>3746557</td>
+	
+	<td>EXPRESS BRIGTH WAY TRUCK LLC</td>
+	<td></td>
+	<td>1400 SYCAMORE SPRING CT</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89128</td>
+	
+	<td>7025023505</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/25/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1328294</td>
+	
+	<td>3746567</td>
+	
+	<td>MAZO LOGISTICS LLC</td>
+	<td></td>
+	<td>2276 RAYMOND LN</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89156</td>
+	
+	<td>7026898759</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>1000000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/25/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1328438</td>
+	
+	<td>3746742</td>
+	
+	<td>INTRINSIC TRANSPORT LLC</td>
+	<td></td>
+	<td>848 N RAINBOW BLVD # A58</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89107</td>
+	
+	<td>3467574588</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/25/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1328567</td>
+	
+	<td>3746902</td>
+	
+	<td>HD SHIPPING SOLUTIONS LLC</td>
+	<td>HD SHIPPING SOLUTIONS</td>
+	<td>802 W 2ND ST</td>
+	<td>RENO</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89503</td>
+	
+	<td>7756833317</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>5000000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	
+	<td>10/25/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1328641</td>
+	
+	<td>3737686</td>
+	
+	<td>BII DIVINE LOGISTICS</td>
+	<td></td>
+	<td>3080 SAINT ROSE PKWY #1356</td>
+	<td>HENDERSON</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89052</td>
+	
+	<td>7024824296</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/22/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1328662</td>
+	
+	<td>3747031</td>
+	
+	<td>LOR TRUCKING LLC</td>
+	<td></td>
+	<td>234 WALDEN RIDGE CT</td>
+	<td>HENDERSON</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89014</td>
+	
+	<td>7028437764</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/25/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1328685</td>
+	
+	<td>3747057</td>
+	
+	<td>FOUR SONS TRUCKING LLC</td>
+	<td></td>
+	<td>3255 E DESERT INN RD APT 217</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89121</td>
+	
+	<td>7029553985</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/25/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1328891</td>
+	
+	<td>3726655</td>
+	
+	<td>THE OTHER GUYS LLC</td>
+	<td>HI GUYS</td>
+	<td>4565 E HAMMER LN</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89115-1401</td>
+	
+	<td>7024296045</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/25/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1328915</td>
+	
+	<td>3013769</td>
+	
+	<td>CORNUCOPIA TRANSPORT LLC</td>
+	<td></td>
+	<td>9785 SILVER DESERT AVE</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89148</td>
+	
+	<td>5059343811</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/25/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1328932</td>
+	
+	<td>3747394</td>
+	
+	<td>OTR EXPRESS NV LLC</td>
+	<td></td>
+	<td>9368 NEWBATTLE ST</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89178</td>
+	
+	<td>7028143780</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/25/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1329115</td>
+	
+	<td>3747643</td>
+	
+	<td>H & H TRUCKING LLC</td>
+	<td></td>
+	<td>6922 DENIO ISLAND ST</td>
+	<td>N LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89084</td>
+	
+	<td>7252435883</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/22/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1329248</td>
+	
+	<td>3747851</td>
+	
+	<td>LA BENDICION TRANSPORT LLC</td>
+	<td></td>
+	<td>1796 VICTOR HUGO LN</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89115</td>
+	
+	<td>7024399790</td>
+	
+	<td></td>
+	
+	<td>7024577007</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/22/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1329445</td>
+	
+	<td>3748140</td>
+	
+	<td>DP TRANSPORTATION LLC</td>
+	<td>DP TRANSIT</td>
+	<td>3172 N RAINBOW BLVD # 157</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89108</td>
+	
+	<td>7029941499</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/22/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1329542</td>
+	
+	<td>3748284</td>
+	
+	<td>BRAIS TRANSPORTATION LLC</td>
+	<td></td>
+	<td>800 N RAINBOW BLVD STE 208</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89107</td>
+	
+	<td>7028457733</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/22/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1329599</td>
+	
+	<td>3748364</td>
+	
+	<td>PIONEER AUTO LOGISTICS LLC</td>
+	<td></td>
+	<td>10161 PARK RUN DR STE 150</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89145</td>
+	
+	<td>7025952532</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>1000000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/22/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1329632</td>
+	
+	<td>3748407</td>
+	
+	<td>ARIES TRANSIT LLC</td>
+	<td></td>
+	<td>6549 CASADA WAY</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89107</td>
+	
+	<td>3147613163</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/22/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1329678</td>
+	
+	<td>3748472</td>
+	
+	<td>TR ROBERTS TRUCKING LLC</td>
+	<td></td>
+	<td>8600 SCHOLAR LN APT 1082</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89128</td>
+	
+	<td>7024907025</td>
+	
+	<td></td>
+	
+	<td>8663661233</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	
+	<td>10/25/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1329792</td>
+	
+	<td>3748589</td>
+	
+	<td>TLR LLC</td>
+	<td></td>
+	<td>5698 ALMOCITA CT UNIT 21</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89141</td>
+	
+	<td>7026609339</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>300000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/25/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1329950</td>
+	
+	<td>3748815</td>
+	
+	<td>YEMESE TRANSPORTATION SERVICE LLC</td>
+	<td></td>
+	<td>6168 WOODBURY AVE</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89103</td>
+	
+	<td>7029373203</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/25/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1330103</td>
+	
+	<td>3749013</td>
+	
+	<td>KCL TRANSPORT LLC</td>
+	<td></td>
+	<td>1718 N JONES BLVD</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89108</td>
+	
+	<td>7254654942</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/25/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1330144</td>
+	
+	<td>3749058</td>
+	
+	<td>JUNIPERHILLFURNITURE</td>
+	<td>VIVAS CARRIER</td>
+	<td>850 E PATRIOT BLVD STE B</td>
+	<td>RENO</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89511</td>
+	
+	<td>7754422747</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/25/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1330219</td>
+	
+	<td>3749162</td>
+	
+	<td>PRUITT LOGISTICS LLC</td>
+	<td></td>
+	<td>994 NV-88</td>
+	<td>GARDNERVILLE</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89460</td>
+	
+	<td>5306507134</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/25/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1330305</td>
+	
+	<td>3749276</td>
+	
+	<td>IPA TRANS LLC</td>
+	<td></td>
+	<td>8935 DON VALLEY AVE</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89148</td>
+	
+	<td>7028590378</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/25/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1330312</td>
+	
+	<td>3749285</td>
+	
+	<td>JUNK JOCKS LLC</td>
+	<td></td>
+	<td>3861 CHOPIN CT</td>
+	<td>N LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89032</td>
+	
+	<td>7027207116</td>
+	
+	<td></td>
+	
+	<td>7027207116</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/25/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1330319</td>
+	
+	<td>3749295</td>
+	
+	<td>JR-WES TRANSPORT LLC</td>
+	<td></td>
+	<td>1421 N JONES BLVD SUITE 101</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89108</td>
+	
+	<td>7029899898</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/25/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1330355</td>
+	
+	<td>3680442</td>
+	
+	<td>GRAN SEGOVIA LLC</td>
+	<td></td>
+	<td>4630 SMITH CIR</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89121-7019</td>
+	
+	<td>7025051456</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/25/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1330358</td>
+	
+	<td>3749339</td>
+	
+	<td>LUNA TRUCKING LLC</td>
+	<td></td>
+	<td>6250 W FLAMINGO RD APT 22</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89103</td>
+	
+	<td>7026264859</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/25/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1330381</td>
+	
+	<td>3749371</td>
+	
+	<td>HEPSIVA TRUCKING LLC</td>
+	<td></td>
+	<td>5250 S RAINBOW BLVD UNIT 1017</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89118</td>
+	
+	<td>7024707346</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/22/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1330502</td>
+	
+	<td>3749529</td>
+	
+	<td>SOKO LOGISTICS LLC</td>
+	<td></td>
+	<td>788 SUNLIGHT DUNES CT</td>
+	<td>HENDERSON</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89014</td>
+	
+	<td>8184975563</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/25/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1330574</td>
+	
+	<td>3749629</td>
+	
+	<td>A J AND EAGLES TRANSPORTATION LLC</td>
+	<td></td>
+	<td>5809 GIPSY AVE</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89107</td>
+	
+	<td>7028455955</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/25/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1330583</td>
+	
+	<td>3749638</td>
+	
+	<td>STRAIGHT RUSH LLC</td>
+	<td></td>
+	<td>3125 N BUFFALO DR UNIT 1092</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89128</td>
+	
+	<td>7256006444</td>
+	
+	<td></td>
+	
+	<td>8443330344</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/25/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1330690</td>
+	
+	<td>3749795</td>
+	
+	<td>SHARK TRANSPORT LLC</td>
+	<td></td>
+	<td>1401 N LAMB BLVD APT 146</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89110</td>
+	
+	<td>6197821613</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/25/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1330693</td>
+	
+	<td>3749800</td>
+	
+	<td>QUICK RUNNERS TRANSPORT LLC</td>
+	<td></td>
+	<td>2105 S 17TH ST</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89104</td>
+	
+	<td>7028838279</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/25/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1330702</td>
+	
+	<td>3749812</td>
+	
+	<td>FIRST TIME DELIVERY LLC</td>
+	<td>FIRST TIME DELIVERY</td>
+	<td>8004 CELEBREEZE CT</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89145</td>
+	
+	<td>7022108590</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/25/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1330828</td>
+	
+	<td>3749982</td>
+	
+	<td>TRANS AMERICA LOGISTICS INC</td>
+	<td></td>
+	<td>1281 TERMINAL WAY STE 215</td>
+	<td>RENO</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89502</td>
+	
+	<td>7755010236</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/25/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1330847</td>
+	
+	<td>3750009</td>
+	
+	<td>TRAVON KING TRUCKING LLC</td>
+	<td></td>
+	<td>6130 ELTON AVE</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89107</td>
+	
+	<td>7027890310</td>
+	
+	<td></td>
+	
+	<td>7027890311</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/25/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1330880</td>
+	
+	<td>3750057</td>
+	
+	<td>YNAAT TRUCKING LLC</td>
+	<td></td>
+	<td>5325 E TROPICANA AVE APT 2081</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89122</td>
+	
+	<td>7027640487</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/25/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1330897</td>
+	
+	<td>3750081</td>
+	
+	<td>TORRES EXPRESS LLC</td>
+	<td></td>
+	<td>3825 CRAIG CROSSING DR APT 1077</td>
+	<td>N LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89032</td>
+	
+	<td>7027419225</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/25/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1331056</td>
+	
+	<td>3750290</td>
+	
+	<td>VEGAS BOUND LLC</td>
+	<td>VEGAS BOUND</td>
+	<td>1350 N TOWN CENTER DR UNIT 3017</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89144</td>
+	
+	<td>5185704834</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/25/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC133205</td>
+	
+	<td>3188837</td>
+	
+	<td>TRANSMAC LLC</td>
+	<td></td>
+	<td>2200 S FORT APACHE RD UNIT 1122</td>
+	<td>LAS VEGAS</td>
+	<td>NV</td>
+	<td style="mso-number-format:\@;">89117</td>
+	
+	<td>7025819033</td>
+	
+	<td>7025819033</td>
+	
+	<td></td>
+	
+	<td>transmacllc@yahoo.com</td>
+	
+	<td>ANGELO DEE</td>
+	
+	<td></td>
+	
+	<td>      1</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/18/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td>0</td>
+	
+	<td>1.39</td>
+	
+		<td>0</td>
+	
+	<td>0.47</td>
+	
+		<td>0</td>
+	
+	<td>0.16</td>
+	
+		<td>0</td>
+	
+	<td>0.019</td>
+	
+		<td>0</td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+</table>

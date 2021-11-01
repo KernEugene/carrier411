@@ -1,0 +1,1234 @@
+
+
+<table>
+<tr>
+	
+	<td>DOCKET</td>
+	<td>USDOT</td>
+	<td>LEGALNAME</td>
+	<td>DBANAME</td>
+	<td>ADDRESS</td>
+	<td>CITY</td>
+	<td>STATE</td>
+	<td>ZIP</td>
+	<td>PHONE</td>
+	<td>CELL</td>
+	<td>FAX</td>
+	<td>EMAIL</td>
+	<td>CONTACT1</td>
+	<td>CONTACT2</td>
+	<td>TRUCKS</td>
+	<td>INSPECTIONS</td>
+	<td>DRVINSP</td>
+	<td>DRVINSPOOS</td>
+	<td>DRVOOSPCT</td>
+	<td>VEHINSP</td>
+	<td>VEHINSPOOS</td>
+	<td>VEHOOSPCT</td>
+	<td>HAZMAT</td>
+	<td>COMMON</td>
+	<td>CONTRACT</td>
+	<td>BROKER</td>
+	<td>PENDCOMMON</td>
+	<td>PENDCONTRACT</td>
+	<td>PENDBROKER</td>
+	<td>REVCOMMON</td>
+	<td>REVCONTRACT</td>
+	<td>REVBROKER</td>
+	<td>BIPDREQ</td>
+	<td>BIPDFILED</td>
+	<td>CARGOREQ</td>
+	<td>CARGOFILED</td>
+	<td>BONDREQ</td>
+	<td>BONDFILED</td>
+	<td>INSAUTHUPDATED</td>
+	
+	<td>RATING</td>
+	<td>RATEDATE</td>
+	<td>UNSAFEDRIVPCT</td>
+	<td>UNSAFEDRIVRDALERT</td>
+	<td>UNSAFEDRIVSV</td>
+	<td>UNSAFEDRIVBASICALERT</td>
+	<td>HOSCOMPPCT</td>
+	<td>HOSCOMPRDALERT</td>
+	<td>HOSCOMPSV</td>
+	<td>HOSCOMPBASICALERT</td>
+	<td>DRIVFITPCT</td>
+	<td>DRIVFITRDALERT</td>
+	<td>DRIVFITSV</td>
+	<td>DRIVFITBASICALERT</td>
+	<td>CONTRSUBSTPCT</td>
+	<td>CONTRSUBSTRDALERT</td>
+	<td>CONTRSUBSTSV</td>
+	<td>CONTRSUBSTBASICALERT</td>
+	<td>VEHMAINTPCT</td>
+	<td>VEHMAINTRDALERT</td>
+	<td>VEHMAINTSV</td>
+	<td>VEHMAINTBASICALERT</td>
+	<td>UNSAFEDRIVMEAS</td>
+	<td>UNSAFEDRIVMEASINDAVG</td>
+	<td>HOSCOMPMEAS</td>
+	<td>HOSCOMPMEASINDAVG</td>
+	<td>DRIVFITMEAS</td>
+	<td>DRIVFITMEASINDAVG</td>
+	<td>CONTRSUBSTMEAS</td>
+	<td>CONTRSUBSTMEASINDAVG</td>
+	<td>VEHMAINTMEAS</td>
+	<td>VEHMAINTMEASINDAVG</td>
+	
+	<td>EXPORTED</td>
+</tr>
+
+<tr>
+	
+	<td>MC1316583</td>
+	
+	<td>3730359</td>
+	
+	<td>WILLEY AND SON TOWING AND RECOVERY LLC</td>
+	<td></td>
+	<td>246 THOMAS RD</td>
+	<td>LUNENBURG</td>
+	<td>VT</td>
+	<td style="mso-number-format:\@;">05906</td>
+	
+	<td>8025354404</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/19/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1322083</td>
+	
+	<td>402704</td>
+	
+	<td>HAL R SAUNDERS</td>
+	<td>HRS TRANSPORTATION</td>
+	<td>1150 RIPTON RD</td>
+	<td>LINCOLN</td>
+	<td>VT</td>
+	<td style="mso-number-format:\@;">05443</td>
+	
+	<td>8023435158</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>750000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/25/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1325350</td>
+	
+	<td>3742494</td>
+	
+	<td>TOWLE TRANSPORTATION LLC</td>
+	<td></td>
+	<td>235 BENTLEY AVE</td>
+	<td>POULTNEY</td>
+	<td>VT</td>
+	<td style="mso-number-format:\@;">05764</td>
+	
+	<td>8022871530</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/18/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1326360</td>
+	
+	<td>3743891</td>
+	
+	<td>TEEKE TRANSPORTATION</td>
+	<td>TEEKE TRANSPORT</td>
+	<td>42 SEVERANCE GRN UNIT 204</td>
+	<td>COLCHESTER</td>
+	<td>VT</td>
+	<td style="mso-number-format:\@;">05446</td>
+	
+	<td>8023161128</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	
+	<td>10/20/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1326361</td>
+	
+	<td>3743892</td>
+	
+	<td>TUG TRANSPORT LLC</td>
+	<td></td>
+	<td>240 WILLOUGHBY LK RD</td>
+	<td>BROWNINGTON</td>
+	<td>VT</td>
+	<td style="mso-number-format:\@;">05860</td>
+	
+	<td>5409662174</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>1000000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/22/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1327277</td>
+	
+	<td>3745176</td>
+	
+	<td>TSMMULTISERVICE LLC</td>
+	<td></td>
+	<td>18 GILMAN CIR APT 3</td>
+	<td>COLCHESTER</td>
+	<td>VT</td>
+	<td style="mso-number-format:\@;">05446</td>
+	
+	<td>8003047119</td>
+	
+	<td></td>
+	
+	<td>8003047119</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/21/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1327279</td>
+	
+	<td>3745180</td>
+	
+	<td>WOODBURY'S TRANSPORTATION LLC</td>
+	<td></td>
+	<td>3 LARK LN</td>
+	<td>SPRINGFIELD</td>
+	<td>VT</td>
+	<td style="mso-number-format:\@;">05156</td>
+	
+	<td>8285729049</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/22/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1329096</td>
+	
+	<td>3747616</td>
+	
+	<td>WREN TRANSPORT LLC</td>
+	<td></td>
+	<td>69 PITMAN RD</td>
+	<td>BARRE</td>
+	<td>VT</td>
+	<td style="mso-number-format:\@;">05641</td>
+	
+	<td>8022798488</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/22/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1329693</td>
+	
+	<td>3748492</td>
+	
+	<td>ELITE LLC</td>
+	<td>ELITE LLC</td>
+	<td>17 ASHTON DR</td>
+	<td>SAINT ALBANS</td>
+	<td>VT</td>
+	<td style="mso-number-format:\@;">05478</td>
+	
+	<td>8025988964</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/25/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+</table>

@@ -1,0 +1,2386 @@
+
+
+<table>
+<tr>
+	
+	<td>DOCKET</td>
+	<td>USDOT</td>
+	<td>LEGALNAME</td>
+	<td>DBANAME</td>
+	<td>ADDRESS</td>
+	<td>CITY</td>
+	<td>STATE</td>
+	<td>ZIP</td>
+	<td>PHONE</td>
+	<td>CELL</td>
+	<td>FAX</td>
+	<td>EMAIL</td>
+	<td>CONTACT1</td>
+	<td>CONTACT2</td>
+	<td>TRUCKS</td>
+	<td>INSPECTIONS</td>
+	<td>DRVINSP</td>
+	<td>DRVINSPOOS</td>
+	<td>DRVOOSPCT</td>
+	<td>VEHINSP</td>
+	<td>VEHINSPOOS</td>
+	<td>VEHOOSPCT</td>
+	<td>HAZMAT</td>
+	<td>COMMON</td>
+	<td>CONTRACT</td>
+	<td>BROKER</td>
+	<td>PENDCOMMON</td>
+	<td>PENDCONTRACT</td>
+	<td>PENDBROKER</td>
+	<td>REVCOMMON</td>
+	<td>REVCONTRACT</td>
+	<td>REVBROKER</td>
+	<td>BIPDREQ</td>
+	<td>BIPDFILED</td>
+	<td>CARGOREQ</td>
+	<td>CARGOFILED</td>
+	<td>BONDREQ</td>
+	<td>BONDFILED</td>
+	<td>INSAUTHUPDATED</td>
+	
+	<td>RATING</td>
+	<td>RATEDATE</td>
+	<td>UNSAFEDRIVPCT</td>
+	<td>UNSAFEDRIVRDALERT</td>
+	<td>UNSAFEDRIVSV</td>
+	<td>UNSAFEDRIVBASICALERT</td>
+	<td>HOSCOMPPCT</td>
+	<td>HOSCOMPRDALERT</td>
+	<td>HOSCOMPSV</td>
+	<td>HOSCOMPBASICALERT</td>
+	<td>DRIVFITPCT</td>
+	<td>DRIVFITRDALERT</td>
+	<td>DRIVFITSV</td>
+	<td>DRIVFITBASICALERT</td>
+	<td>CONTRSUBSTPCT</td>
+	<td>CONTRSUBSTRDALERT</td>
+	<td>CONTRSUBSTSV</td>
+	<td>CONTRSUBSTBASICALERT</td>
+	<td>VEHMAINTPCT</td>
+	<td>VEHMAINTRDALERT</td>
+	<td>VEHMAINTSV</td>
+	<td>VEHMAINTBASICALERT</td>
+	<td>UNSAFEDRIVMEAS</td>
+	<td>UNSAFEDRIVMEASINDAVG</td>
+	<td>HOSCOMPMEAS</td>
+	<td>HOSCOMPMEASINDAVG</td>
+	<td>DRIVFITMEAS</td>
+	<td>DRIVFITMEASINDAVG</td>
+	<td>CONTRSUBSTMEAS</td>
+	<td>CONTRSUBSTMEASINDAVG</td>
+	<td>VEHMAINTMEAS</td>
+	<td>VEHMAINTMEASINDAVG</td>
+	
+	<td>EXPORTED</td>
+</tr>
+
+<tr>
+	
+	<td>FF051491</td>
+	
+	<td></td>
+	
+	<td>WEGLIN TRANSPORT</td>
+	<td></td>
+	<td>108 PONDEROSA DR 108 PONDEROSA DR</td>
+	<td>SPEARFISH</td>
+	<td>SD</td>
+	<td style="mso-number-format:\@;">57783</td>
+	
+	<td>6056452676</td>
+	
+	<td></td>
+	
+	<td>6056452676</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	
+	<td>10/21/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1296045</td>
+	
+	<td>3702454</td>
+	
+	<td>KAT ALEX TRANSPORT LLC</td>
+	<td></td>
+	<td>305 W 4TH ST</td>
+	<td>CANTON</td>
+	<td>SD</td>
+	<td style="mso-number-format:\@;">57013</td>
+	
+	<td>7632276485</td>
+	
+	<td>7632276485</td>
+	
+	<td></td>
+	
+	<td>kmhastad@gmail.com</td>
+	
+	<td>KATHLEEN HASTAD</td>
+	
+	<td>BRANDON ALEXANDER</td>
+	
+	<td>      1</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>750000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/25/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td>0</td>
+	
+	<td>1.39</td>
+	
+		<td>0</td>
+	
+	<td>0.47</td>
+	
+		<td>0</td>
+	
+	<td>0.16</td>
+	
+		<td>0</td>
+	
+	<td>0.019</td>
+	
+		<td>0</td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1312250</td>
+	
+	<td>3724435</td>
+	
+	<td>KINETIC FREIGHT LLC</td>
+	<td></td>
+	<td>15003 LOWER SPRING CREEK RD</td>
+	<td>HERMOSA</td>
+	<td>SD</td>
+	<td style="mso-number-format:\@;">57744</td>
+	
+	<td>6053812525</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>1000000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/25/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td>0</td>
+	
+	<td>1.39</td>
+	
+		<td>0</td>
+	
+	<td>0.47</td>
+	
+		<td>0</td>
+	
+	<td>0.16</td>
+	
+		<td>0</td>
+	
+	<td>0.019</td>
+	
+		<td>0</td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1320337</td>
+	
+	<td>3735500</td>
+	
+	<td>BLOCKCHAIN LOGISTICS LLC</td>
+	<td></td>
+	<td>405 E 12TH ST APT 206</td>
+	<td>SIOUX FALLS</td>
+	<td>SD</td>
+	<td style="mso-number-format:\@;">57104</td>
+	
+	<td>7016510917</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/25/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1321050</td>
+	
+	<td>3736523</td>
+	
+	<td>SCHAIBLE'S TRANSPORTATION LLC</td>
+	<td></td>
+	<td>383 LEWIS AND CLARK TRL</td>
+	<td>YANKTON</td>
+	<td>SD</td>
+	<td style="mso-number-format:\@;">57078</td>
+	
+	<td>4027509770</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>1000000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/19/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1321100</td>
+	
+	<td>3736584</td>
+	
+	<td>POPPENS TRUCKING LLC</td>
+	<td></td>
+	<td>200 E MAIN ST</td>
+	<td>IRENE</td>
+	<td>SD</td>
+	<td style="mso-number-format:\@;">57037</td>
+	
+	<td>6057449316</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>1000000</td>
+	<td>0</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/19/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1322149</td>
+	
+	<td>3738067</td>
+	
+	<td>YAGA EMPIRE TRUCKING LLC</td>
+	<td></td>
+	<td>908 N BLAUVELT AVE</td>
+	<td>SIOUX FALLS</td>
+	<td>SD</td>
+	<td style="mso-number-format:\@;">57103</td>
+	
+	<td>6053218915</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/25/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1322366</td>
+	
+	<td>3738383</td>
+	
+	<td>MCARTHUR GROUPS LLC</td>
+	<td></td>
+	<td>927 E 8TH ST UNIT 140</td>
+	<td>SIOUX FALLS</td>
+	<td>SD</td>
+	<td style="mso-number-format:\@;">57103</td>
+	
+	<td>7869566555</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/25/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1323776</td>
+	
+	<td>3740306</td>
+	
+	<td>TURN THE PAGE TRANSPORTATION LLC</td>
+	<td></td>
+	<td>268 MCDERMAND ST</td>
+	<td>HERMOSA</td>
+	<td>SD</td>
+	<td style="mso-number-format:\@;">57744</td>
+	
+	<td>3033040472</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>750000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/25/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1325176</td>
+	
+	<td>3742252</td>
+	
+	<td>GATOR TRANSPORT LLC</td>
+	<td></td>
+	<td>6500 W 43RD ST APT 19</td>
+	<td>SIOUX FALLS</td>
+	<td>SD</td>
+	<td style="mso-number-format:\@;">57106</td>
+	
+	<td>6053709367</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>1000000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/18/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1325180</td>
+	
+	<td>3742261</td>
+	
+	<td>MANFREIGHT DISPATCHING SERVICE LLC</td>
+	<td></td>
+	<td>500 E 14TH ST APT 7</td>
+	<td>SIOUX FALLS</td>
+	<td>SD</td>
+	<td style="mso-number-format:\@;">57104</td>
+	
+	<td>6052517405</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>300000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/18/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1326638</td>
+	
+	<td>3744294</td>
+	
+	<td>TWISTED TRUCKING LLC</td>
+	<td></td>
+	<td>13699 ANTELOPE LANE RD</td>
+	<td>OELRICHS</td>
+	<td>SD</td>
+	<td style="mso-number-format:\@;">57763</td>
+	
+	<td>6508770980</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>1000000</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/20/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1327037</td>
+	
+	<td>3744850</td>
+	
+	<td>AVANT TRUCKING LLC</td>
+	<td></td>
+	<td>214 POPLAR ST</td>
+	<td>AVON</td>
+	<td>SD</td>
+	<td style="mso-number-format:\@;">57315</td>
+	
+	<td>6054699652</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/21/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1327314</td>
+	
+	<td>3745228</td>
+	
+	<td>SUMNIMA SEWA LLC</td>
+	<td></td>
+	<td>1001 N RICOCHET PL</td>
+	<td>SIOUX FALLS</td>
+	<td>SD</td>
+	<td style="mso-number-format:\@;">57103</td>
+	
+	<td>6052313997</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/21/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1329030</td>
+	
+	<td>3744116</td>
+	
+	<td>MARK WEGLIN</td>
+	<td>WEGLIN TRANSPORT</td>
+	<td>108 PONDEROSA DRIVE</td>
+	<td>SPEARFISH</td>
+	<td>SD</td>
+	<td style="mso-number-format:\@;">57783</td>
+	
+	<td>6056452676</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>1000000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/22/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1329297</td>
+	
+	<td>3747935</td>
+	
+	<td>CODY CLARK</td>
+	<td></td>
+	<td>21978 475TH AVE</td>
+	<td>AURORA</td>
+	<td>SD</td>
+	<td style="mso-number-format:\@;">57002</td>
+	
+	<td>6056959538</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/22/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC1329888</td>
+	
+	<td>3215396</td>
+	
+	<td>KC DUCHENEAUX</td>
+	<td>TRAILS END TRUCKING</td>
+	<td>308 10TH AVE E</td>
+	<td>MOBRIDGE</td>
+	<td>SD</td>
+	<td style="mso-number-format:\@;">57601-2827</td>
+	
+	<td>6058456707</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>750000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/25/2021</td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td></td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td></td>
+	
+	<td>1.39</td>
+	
+		<td></td>
+	
+	<td>0.47</td>
+	
+		<td></td>
+	
+	<td>0.16</td>
+	
+		<td></td>
+	
+	<td>0.019</td>
+	
+		<td></td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+<tr>
+	
+	<td>MC303616</td>
+	
+	<td>642217</td>
+	
+	<td>FORELL LIMOUSINE SERVICE, INC.</td>
+	<td>FORELL BUS SERVICE</td>
+	<td>106 W. PROSPECT AVE.</td>
+	<td>PIERRE</td>
+	<td>SD</td>
+	<td style="mso-number-format:\@;">57501</td>
+	
+	<td>6052240073</td>
+	
+	<td>6052807300</td>
+	
+	<td>6052240073</td>
+	
+	<td>forell@pie.midco.net</td>
+	
+	<td>DAWNITA FORELL</td>
+	
+	<td>CHARLES R. FORELL</td>
+	
+	<td>      6</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>0</td>
+	
+	<td>N</td>
+	
+	<td>I</td>
+	<td>N</td>
+	<td>N</td>
+	<td>Y</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>5000000</td>
+	<td>0</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	<td>N</td>
+	
+	<td>10/25/2021</td>
+	
+	<td>S</td>
+	
+	<td>10/03/2011</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>0.0</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+	<td>N</td>
+	
+		<td>0</td>
+	
+	<td>1.39</td>
+	
+		<td>0</td>
+	
+	<td>0.47</td>
+	
+		<td>0</td>
+	
+	<td>0.16</td>
+	
+		<td>0</td>
+	
+	<td>0.019</td>
+	
+		<td>0</td>
+	
+	<td>2.47</td>
+	
+	<td>10/25/2021</td>
+</tr>
+
+</table>
