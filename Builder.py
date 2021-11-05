@@ -3,12 +3,15 @@ import csv
 from datetime import datetime
 
 
+# Собстевенно код, который делает все преображения в xlsx file
+
 def write_csv(data):
-    with open('cms.csv', 'a') as f:
+    with open('cms.xlsx', 'a') as f:
         writer = csv.writer(f)
-        writer.writerow(('LEGALNAME', data['LegalName'],
-                         'EMAIL', data['Email'],
-                         'CONTACT_NAME ', data['ContactName']))
+        writer.writerow((data['LegalName'],
+                         data['Email'],
+                         data['ContactName']))
+
 
 
 def refactoring(field):
@@ -23,7 +26,7 @@ def refactoring(field):
 def search():
     startTime = datetime.now()
     counter = 1
-    for i in range(50):
+    for i in range(100):
         workbook = load_workbook(filename=f"data/data{counter}.xlsx")
         counter += 1
         sheet = workbook.active
@@ -32,11 +35,10 @@ def search():
                       '@live.com', '@aol.com', '@usa.com', '@ymail.com']
 
 
-        for i in range(1, amount):
+        for i in range(2, amount):
              email = (sheet.cell(row=i, column=12).value)
              legalname = (sheet.cell(row=i, column=3).value)
              contact_name = (sheet.cell(row=i, column=13).value)
-             print(email)
 
              if email == None:
                  pass
@@ -46,6 +48,7 @@ def search():
                           'ContactName': refactoring(contact_name)}
 
                  write_csv(data)
+    print(counter)
 
 
 
